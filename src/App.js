@@ -74,7 +74,7 @@ function App() {
               <Company />
             </div>
             : null}
-          {currentTab == "Location" ?
+          {currentTab == "Locations" ?
             <div className='pl-2 w-full '>
               <Location />
             </div>
