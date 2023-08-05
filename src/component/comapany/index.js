@@ -6,6 +6,7 @@ function Company() {
             <div class="text-center mb-16">
                 <p class="mt-4 text-sm leading-7 text-gray-500 font-regular uppercase">
                     Company
+                    {"hello"}
                 </p>
                 <h3 class="text-3xl sm:text-4xl leading-normal font-extrabold tracking-tight text-gray-900">
                     Get In <span class="text-indigo-600">Company</span>
